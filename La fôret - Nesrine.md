@@ -1,4 +1,4 @@
 
 [Vous avez Faim?](Restaurant-Lina.md)
-[Ou bien vous voulez Voyager?](Aéroport.md)
+[Ou bien vous voulez voyager?](Aéroport.md)
 [L'auvergne vous attend](Lamontagne-Nesrine.md)
